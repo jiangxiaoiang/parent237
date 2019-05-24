@@ -150,10 +150,10 @@
 		</dependency>
 
 		<!--page -->
-		<dependency>
+<!-- 		<dependency>
 			<groupId>com.babasport</groupId>
 			<artifactId>page</artifactId>
-		</dependency>
+		</dependency> -->
 		<!-- solrJ -->
 		<dependency>
 			<groupId>org.apache.solr</groupId>
@@ -168,10 +168,10 @@
 
 		<!-- FastDFS client -->
 
-		<dependency>
+<!-- 		<dependency>
 			<groupId>fastdfs_client</groupId>
 			<artifactId>fastdfs_client</artifactId>
-		</dependency>
+		</dependency> -->
 
 		<dependency>
 			<groupId>org.jboss.netty</groupId>
